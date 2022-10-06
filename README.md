@@ -33,6 +33,7 @@ I am **TEYIM ASOBO** , A frontend software developer based in Cameroon, who stri
 ##  Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Zustand to Manage State in React App](https://dev.to/teyim/using-zustand-to-manage-state-in-react-app-2iia)
 <!-- BLOG-POST-LIST:END -->
 
 
