@@ -33,6 +33,7 @@ I am **TEYIM ASOBO** , A frontend software developer based in Cameroon, who stri
 ##  Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Effortless Testing Setup for React with Vite, TypeScript, Jest, and React Testing Library](https://dev.to/teyim/effortless-testing-setup-for-react-with-vite-typescript-jest-and-react-testing-library-1c48)
 - [Using Zustand to Manage State in React App](https://dev.to/teyim/using-zustand-to-manage-state-in-react-app-2iia)
 <!-- BLOG-POST-LIST:END -->
 
