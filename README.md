@@ -23,12 +23,6 @@ I am **TEYIM ASOBO** , A frontend software developer based in Cameroon, who stri
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>
 </div>
 
-## Stats
-<div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=teyim&count_private=true&show_icons=true"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=teyim"/>
-</div>
-
 
 ##  Blog Posts 
 
