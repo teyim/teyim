@@ -1,11 +1,11 @@
 ## Hi There :wave:
-I am **TEYIM ASOBO** , A frontend software developer based in Cameroon, who strives to build performant and scalable web application with good user interfaces.
+I am **TEYIM ASOBO** , A Frontend developer who combines design flair with technical know-how for seamless user experiences. I excel inteamwork, turning visions into reality. Always learning, I stay updated with industry trends to drive innovation. 
 
 ### More about me
 
  - :computer: I am a  frontend devloper
  - :round_pushpin: I am from Cameroon 
- - :book: I am a 4th year combined maths and computer science student
+ - :book: Degree in combined maths and computer science 
  - :video_game: I enjoy watching movies and playing video games during my free time
  - :pencil:  I enjoy reading and writting blog posts at [dev.to](dev.to).check out some of my blog post [here](https://dev.to/teyim)
 
