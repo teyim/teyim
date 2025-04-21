@@ -40,9 +40,6 @@ I am **TEYIM ASOBO** , A Frontend developer who combines design flair with techn
   <a href="https://www.linkedin.com/in/teyimasobo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:teyimasobo@gmail.com">
-    <img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/asofex">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
